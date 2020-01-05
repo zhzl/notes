@@ -1,0 +1,50 @@
+# Project information
+site_name: 编程笔记
+site_description: 
+site_author: 'zhouzelong'
+site_url: 'https://zhzl.github.io/notes/'
+
+# Repository
+repo_name: 'zhzl/notes'
+repo_url: 'https://github.com/zhzl/notes'
+
+# Copyright
+copyright: 'Copyright &copy; 2020 zhouzelong'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  feature:
+    tabs: true
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex
+
+# Javascript
+extra_javascript:
+    - 'js/extra.js'
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+# Navigation
+# nav:
+  # - 介绍: index.md
+  # - 安装:
+      # - 本地环境搭建: install/local.md
+      # - 发布至GitHub Pages: install/github-pages.md
+      # - 发布至自己的HTTP Server: install/http-server.md
+  # - 语法:
+      # - 语法总览: syntax/main.md
+      # - 标题: syntax/headline.md
+      # - 段落: syntax/paragraph.md
