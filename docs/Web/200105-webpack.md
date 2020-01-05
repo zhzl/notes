@@ -347,3 +347,11 @@ const vm = new Vue({
   "dev": "webpack-dev-server --open --host 127.0.0.1 --port 3000", 
 }, 
 ```
+
+## 代码地址
+
+[node-babel](https://github.com/zhzl/web-demo/tree/master/webpack-study)
+
+## 更多
+
+[webpack 中文文档](https://www.webpackjs.com/concepts/)
