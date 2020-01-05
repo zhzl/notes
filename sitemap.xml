@@ -6,12 +6,22 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://zhzl.github.io/notes/Cocos/200105-Creator的基本使用/</loc>
+     <lastmod>2020-01-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://zhzl.github.io/notes/Web/200105-ES6模块化/</loc>
      <lastmod>2020-01-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://zhzl.github.io/notes/Web/200105-webpack/</loc>
+     <lastmod>2020-01-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://zhzl.github.io/notes/算法/200105-最小优先队列/</loc>
      <lastmod>2020-01-05</lastmod>
      <changefreq>daily</changefreq>
     </url>
