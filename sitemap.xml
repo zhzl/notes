@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://zhzl.github.io/notes/</loc>
-     <lastmod>2020-01-05</lastmod>
+     <lastmod>2020-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://zhzl.github.io/notes/Cocos/200105-Creator的基本使用/</loc>
-     <lastmod>2020-01-05</lastmod>
+     <loc>https://zhzl.github.io/notes/Game/微信小游戏/200112-优化包体大小/</loc>
+     <lastmod>2020-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://zhzl.github.io/notes/Web/200105-ES6模块化/</loc>
-     <lastmod>2020-01-05</lastmod>
+     <lastmod>2020-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://zhzl.github.io/notes/Web/200105-webpack/</loc>
-     <lastmod>2020-01-05</lastmod>
+     <lastmod>2020-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://zhzl.github.io/notes/算法/200105-最小优先队列/</loc>
-     <lastmod>2020-01-05</lastmod>
+     <lastmod>2020-01-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://zhzl.github.io/notes/算法/200116-洗牌算法/</loc>
+     <lastmod>2020-01-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
